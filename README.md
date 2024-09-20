@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/web102/CKbedgCV.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://submissions.us-east-1.linodeobjects.com/web102/CKbedgCV.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap 
